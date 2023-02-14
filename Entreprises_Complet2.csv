@@ -43,6 +43,38 @@ Médical;Recherche;Institut Pasteur - UMR 1177-M2SV;"; 2023=1";;;;;;;;;;;;;;;;;;
 Alimentaire;vin;Institut œnologique de Champagne;"; 2020=1";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;9 rue du commerce;Cormontreuil;51350;0326823300;https://ioc.eu.com/fr/;49.21942730999255, 4.069822672575694;;;;;;;;52;N° 52 Institut œnologique de Champagne;54;N° 54 Institut œnologique de Champagne;;;;;;;;0;0;0;1;;;;;;;;4;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
 Médical;Recherche;SANOFI AVENTIS RECHERCHE & DEVELOPPEMENT;"; 2020=1";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;13 Quai Jules Guesde - BP14;VITRY SUR SEINE;94403;0158933000;https://www.sanofi.fr/fr/;48.785219990760005, 2.4175539777442983;;;;;;;;52;N° 52 SANOFI AVENTIS RECHERCHE & DEVELOPPEMENT;54;N° 54 SANOFI AVENTIS RECHERCHE & DEVELOPPEMENT;;;;;;;;0;0;0;1;;;;;;;;4;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
 Microbiologie;Recherche;INRAE URTAL Microbiologe;"           ; 2020=1 ; 2019=1      ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Rue de versailles BP 20089;Poligny;39801;0363572000;https://minifromagerie-poligny.hub.inrae.fr/;46.834609846103874, 5.70502252392871;;;;;;;;14;N° 14 INRAE URTAL Microbiologe;35;N° 35 INRAE URTAL Microbiologe;;;;;;;;0;0;0;1;1;;;;;;;8;4;0;0;0;1;0;0;0;0;0;0;1;0;0;0
+Médical;Recherche;University of Edimburgh;"; 2020=1";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Roger Land Building Alexander Crum Brown Roa;Edinburgh (Écosse);EH9 3FF;441316505338;https://www.ed.ac.uk/research;55.922305545918796, -3.1768938722612936;;;;;;;;52;N° 52 University of Edimburgh;54;N° 54 University of Edimburgh;;;;;;;;0;0;0;1;0;0;0;0;0;0;0;4;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+Médical;Analyses;Laboratoire d'analyses médicales - Valmy - Cerballiance;"; 2020=1";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2, rue Claude Ladrey;Dijon;21000;0345600670;https://laboratoires.cerballiance.fr/bourgogne-franche-comt%C3%A9/dijon/4-rue-loun%C3%A8s-matoub?utm_source=Yext&utm_medium=GMB;47.36222688001425, 5.050706208183181;;;;;;;;52;N° 52 Laboratoire d'analyses médicales - Valmy - Cerballiance;54;N° 54 Laboratoire d'analyses médicales - Valmy - Cerballiance;;;;;;;;0;0;0;1;;;;;;;;4;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+BCM;Recherche;Centre de biophysique moléculaire UPR4301;"; 2020=1";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Rue Charles Sadron cedex 2;Orléans;45071;02 38 25 55 40;http://cbm.cnrs-orleans.fr/;47.84006724914469, 1.9442839460264967;;;;;;;;52;N° 52 Centre de biophysique moléculaire UPR4301;54;N° 54 Centre de biophysique moléculaire UPR4301;;;;;;;;0;0;0;1;;;;;;;;4;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+Alimentaire;Recherche;VIVESCIA Agriculture Services;"; 2020=1";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2, rue Clément Ader BP 1017;Reims;51685;0326786200;http://www.vivescia.com/;49.234434641038675, 4.0703849109628925;;;;;;;;52;N° 52 VIVESCIA Agriculture Services;54;N° 54 VIVESCIA Agriculture Services;;;;;;;;0;0;0;1;;;;;;;;4;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+Alimentaire;Analyses;Aquanalyse Laboratoire;"            ; 2019=1      ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ZI Chemin de crève-cœur;Plancy l’abbaye;10380;03 25 37 32 93;https://www.aquanalyse-laboratoire.fr/;48.57460675411896, 3.974241827264009;;;;;;aquanalyse@orange.fr;;52;N° 52 Aquanalyse Laboratoire;35;N° 35 Aquanalyse Laboratoire;;;;;;;;0;0;0;0;1;;;;;;;4;4;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+Environnement;Recherche;INRAE UMR Agroécologie 1347;"            ; 2019=1      ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;17, rue Sully BP 86510 cedex;Dijon;21065;03 80 69 30 00;https://www6.dijon.inrae.fr/umragroecologie;47.31715657352664, 5.069381566844152;;;;;;;;52;N° 52 INRAE UMR Agroécologie 1347;35;N° 35 INRAE UMR Agroécologie 1347;;;;;;;;0;0;0;0;1;;;;;;;4;4;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+Microbiologie;Recherche;UMR PAM, équipe PMB;"            ; 2019=1      ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;26, boulevard Petitjean;Dijon;21000;03 80 77 26 48;https://institut-agro-dijon.fr/la-recherche/potentiels-de-recherche/umr-procedes-alimentaires-et-microbiologiques;47.3111065672089, 5.0659137139204224;;;;;;;;52;N° 52 UMR PAM, équipe PMB;35;N° 35 UMR PAM, équipe PMB;;;;;;;;0;0;0;0;1;;;;;;;4;4;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+Médical;Analyses;"
+Laboratoire de biologie médicale
+Centre hospitalier";"            ; 2019=1      ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;145, avenue François Mitterand;Bourges;18000;02 48 48 49 40;https://www.ch-bourges.fr/recrutement-et-formation/je-sollicite-un-stage/;47.08460548092863, 2.437503750917958;;;;;;;;52;"N° 52 
+Laboratoire de biologie médicale
+Centre hospitalier";35;"N° 35 
+Laboratoire de biologie médicale
+Centre hospitalier";;;;;;;;0;0;0;0;1;;;;;;;4;4;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+BCM;Recherche;"Unité mixte de recherche 1253 
+Imagerie et cerveau
+Inserm Université de Tours
+Faculté de médecine";"            ; 2019=1      ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;10, bd Tonnelle BP3223 Cedex 1;Tours;37032;02 47 36 61 50;https://ibrain.univ-tours.fr/version-francaise/neurogenomique-physiopathologie-neuronale;47.38562227960795, 0.6689960212636459;;;;;;andres@med.univ-tours.fr;;52;"N° 52 Unité mixte de recherche 1253 
+Imagerie et cerveau
+Inserm Université de Tours
+Faculté de médecine";35;"N° 35 Unité mixte de recherche 1253 
+Imagerie et cerveau
+Inserm Université de Tours
+Faculté de médecine";;;;;;;;0;0;0;0;1;;;;;;;4;4;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+Médical;Analyses;DYNALAB;"            ; 2019=1      ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;9 Rue Bernard Palissy;LA CHAPELLE-SAINT-LUC;10600;03 25 43 35 43;https://fr.linkedin.com/company/laboratoire-dynalab;48.3069560666371, 4.039610456093209;;;;;;;;52;N° 52 DYNALAB;35;N° 35 DYNALAB;;;;;;;;0;0;0;0;1;;;;;;;4;4;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+Médical;Analyses;"CHU de REIMS - Pôle Biologie Laboratoire d'hématologie
+CHU Robert Debré
+";"            ; 2019=1      ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;45 Rue Cognacq Jay;Reims;51100;03 26 78 77 66;https://www.chu-reims.fr/offre-de-soins/prises-en-charge/service/pole-de-biologie-medicale-et-pathologie;49.2300758208083, 4.0194415654220546;;;;;;;;52;"N° 52 CHU de REIMS - Pôle Biologie Laboratoire d'hématologie
+CHU Robert Debré
+";35;"N° 35 CHU de REIMS - Pôle Biologie Laboratoire d'hématologie
+CHU Robert Debré
+";;;;;;;;0;0;0;0;1;;;;;;;4;4;0;0;0;0;0;0;0;0;0;0;1;0;0;0
 Lycée;Étudiants en  BTS Bioqualité;Lycée Les Lombards;                  ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;12 avenue les Lombards;Troyes;10000;325714660;https://fr.linkedin.com/company/lycee-polyvalent-les-lombards/;48.27385633751622, 4.071713932691602;;;;;;ce.0100025y@ac-reims.fr;;3;N° 3 Lycée Les Lombards;3;N° 3 Lycée Les Lombards;;;;;;;;;;;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
